@@ -14,13 +14,13 @@ $(function () {
         chart: {
             type: 'pie',
             options3d: {
-				enabled: true,
+				enabled: false,
                 alpha: 45,
                 beta: 0
             }
         },
         title: {
-            text: 'Browser market shares at a specific website, 2014'
+            text: 'Behavior Probabilities for Browsing'
         },
         tooltip: {
             pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
@@ -28,8 +28,8 @@ $(function () {
         plotOptions: {
             pie: {
                 allowPointSelect: true,
-                cursor: 'Browser',
-                depth: 55,
+                cursor: 'pointer',
+                depth: 35,
                 dataLabels: {
                     enabled: true,
                     format: '{point.name}'
@@ -38,19 +38,21 @@ $(function () {
         },
         series: [{
             type: 'pie',
-            name: 'Browser share',
-            data: [
-                ['Firefox',   45.0],
-                ['IE',       26.8],
-                {
-                    name: 'Chrome',
-                    y: 12.8,
-                    sliced: true,
-                    selected: true
-                },
-                ['Safari',    8.5],
-                ['Opera',     6.2],
-                ['Others',   0.7]
+            name: 'Behavior Probability',
+            data:[
+                ['Others', 4.92],
+                ['Hands in pockets',   1.22],
+                ['Fingers on mouth',   2.04],
+                ['Play with hair',   2.04],
+                ['Stand akimbo',   3.27],
+                ['Look around while standing',   3.27],
+                ['Talk with group',   3.27],
+                ['Play with things in hand',    4.08],
+                ['Look at menu',   6.53],
+                ['Point at items in display',     11.02],
+                ['Lean on display/counter',   11.43],
+                ['Talk to vendor',   19.18],
+                ['Lean in',    27.76,]       
             ]
         }]
     });
@@ -59,9 +61,9 @@ $(function () {
 	</head>
 	<body>
 
-<script src="../../js/highcharts.js"></script>
-<script src="../../js/highcharts-3d.js"></script>
-<script src="../../js/modules/exporting.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-3d.js"></script>
+<script src="js/modules/exporting.js"></script>
 
 <div id="container" style="height: 400px"></div>
 	</body>
