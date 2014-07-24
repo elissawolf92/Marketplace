@@ -1,0 +1,227 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Carried Items at Reading Terminal Market</title>
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<style type="text/css">
+${demo.css}
+		</style>
+
+
+	</head>
+	<body>
+
+    <div id="container" style="width:33%; height:300px; float: left"></div>
+    <div id="container2" style="width:33%; height:300px; float: left"></div>
+    <div id="container3" style="width:33%; height:300px; float: left"></div>
+    <div id="container4" style="width:33%; height:300px; float: left"></div>
+    <div id="container5" style="width:33%; height:300px; float: left"></div>
+    <div id="container6" style="width:33%; height:300px; float: left"></div>
+    
+    <script>
+        var options = {
+            chart: {
+                renderTo: 'container',
+            },
+            title: {
+                text: 'RTM: Gender'
+            },
+
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    }
+                }
+                
+            },
+            
+            series: [{
+                type: 'pie',
+                name: 'Percentage',
+                data: [
+                    ['Female', .4746],
+                    ['Male', 0.5254]
+                ]
+            }]
+        };
+        var options2 = {
+            chart: {
+                renderTo: 'container2',
+            },
+            title: {
+                text: 'RTM: Age'
+            },
+
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    }
+                }
+                
+            },
+            
+            series: [{
+                type: 'pie',
+                name: 'Percentage',
+                data: [
+                    ['Child', 0.049],
+                    ['Young Adult', 0.1869],
+                    ['Adult', 0.4229],
+                    ['Middle-aged', 0.2355],
+                    ['Senior', 0.1053]
+                ]
+            }]
+        };
+        var options3 = {
+            chart: {
+                renderTo: 'container3',
+            },
+            title: {
+                text: 'RTM: Group'
+            },
+
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    }
+                }
+                
+            },
+            
+            series: [{
+                type: 'pie',
+                name: 'Percentage',
+                data: [
+                    ['Group', 0.52],
+                    ['Single', 0.48]
+                ]
+            }]
+        };
+		var options4 = {
+            chart: {
+                renderTo: 'container4',
+            },
+            title: {
+                text: 'Rittenhouse: Gender'
+            },
+
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    }
+                }
+                
+            },
+            
+            series: [{
+                type: 'pie',
+                name: 'Percentage',
+                data: [
+                    ['Female', .4807],
+                    ['Male', 0.5193]
+                ]
+            }]
+        };
+		var options5 = {
+            chart: {
+                renderTo: 'container5',
+            },
+            title: {
+                text: 'Rittenhouse: Age'
+            },
+
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    }
+                }
+                
+            },
+            
+            series: [{
+                type: 'pie',
+                name: 'Percentage',
+                data: [
+                    ['Child', 0.0357],
+                    ['Young Adult', 0.1969],
+                    ['Adult', 0.4881],
+                    ['Middle-aged', 0.2021],
+                    ['Senior', 0.0773]
+                ]
+            }]
+        };
+
+        var options6 = {
+            chart: {
+                renderTo: 'container6',
+            },
+            title: {
+                text: 'Rittenhouse: Group'
+            },
+
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    }
+                }
+                
+            },
+            
+            series: [{
+                type: 'pie',
+                name: 'Percentage',
+                data: [
+                    ['Group', 0.6070],
+                    ['Single', 0.3930]
+                ]
+            }]
+        };
+        $(function () {
+        var chart = new Highcharts.Chart(options);
+        var chart2 = new Highcharts.Chart(options2);
+        var chart3 =  new Highcharts.Chart(options3);
+        var chart4 = new Highcharts.Chart(options4);
+        var chart5 = new Highcharts.Chart(options5);
+        var chart6 =  new Highcharts.Chart(options6);
+    });
+    
+		</script>
+
+	
+<script src="js/highcharts.js"></script>
+<script src="js/modules/exporting.js"></script>
+
+	</body>
+</html>
