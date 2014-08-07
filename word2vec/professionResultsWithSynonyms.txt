@@ -1,0 +1,38 @@
+doctor
+[('cerebral', '0.325182'), ('bashful', '0.286397'), ('retire', '0.272270'), ('extrovert', '0.270374'), ('recluse', '0.256462'), ('jealous', '0.242594'), ('quieten', '0.240121'), ('diffident', '0.234569'), ('extroverted', '0.219240')]
+
+
+
+dentist
+[('recluse', '0.390780'), ('extrovert', '0.348837'), ('bashful', '0.306076'), ('coldness', '0.288288'), ('jealous', '0.266986'), ('extroverted', '0.265215'), ('philosophic', '0.262142'), ('uncivil', '0.250833'), ('cerebral', '0.244803')]
+
+
+
+scientist
+[('abstruse', '0.361806'), ('recluse', '0.271816'), ('creative', '0.239914'), ('philosophical', '0.229408'), ('taxonomic', '0.222524'), ('disorganize', '0.201897')]
+
+
+
+lawyer
+[('unsympathetic', '0.293906')]
+
+
+
+librarian
+[('recluse', '0.373889'), ('philosophic', '0.363400'), ('abstruse', '0.312840'), ('extroverted', '0.308893'), ('extrovert', '0.301160'), ('creative', '0.282999'), ('unionize', '0.261771')]
+
+
+
+nurse
+[('bashful', '0.349629'), ('extrovert', '0.305428'), ('recluse', '0.305036'), ('extroverted', '0.301590'), ('jealous', '0.245319'), ('diffident', '0.235244'), ('cerebral', '0.227080')]
+
+
+
+teacher
+[('extroverted', '0.374605'), ('extrovert', '0.325655'), ('jealous', '0.322336'), ('bashful', '0.316232'), ('recluse', '0.306376'), ('hardheaded', '0.287002'), ('philosophic', '0.282358'), ('abstruse', '0.250250'), ('diffident', '0.247210'), ('creative', '0.235280'), ('charitable', '0.226080'), ('affectionate', '0.225619'), ('disagreeable', '0.217767'), ('philosophical', '0.212213')]
+
+
+
+engineer
+[('extrovert', '0.237450'), ('recluse', '0.213400'), ('ardent', '0.209581'), ('complex', '0.199069'), ('jealous', '0.197669')]
+

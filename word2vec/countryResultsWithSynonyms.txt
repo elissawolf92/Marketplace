@@ -1,0 +1,82 @@
+brazil
+[]
+
+
+
+portuguese
+[('temperamental', '0.194448'), ('warmly', '0.191651'), ('tranquillity', '0.184495')]
+
+
+
+australia
+[('moody', '0.303677')]
+
+
+
+iran
+[('crude', '0.170148'), ('strong', '0.162459'), ('natural', '0.156011'), ('harsh', '0.146455'), ('complex', '0.129386'), ('sympathetic', '0.116150'), ('loosen', '0.113868'), ('quick', '0.108861')]
+
+
+
+portugal
+[]
+
+
+
+chinese
+[('covetous', '0.233686'), ('intellectual', '0.223354'), ('harsh', '0.208123'), ('hardheaded', '0.203631'), ('loosen', '0.197824'), ('relax', '0.193805'), ('taxonomic', '0.193395'), ('unsympathetic', '0.180739'), ('abstruse', '0.177960'), ('relaxed', '0.175212'), ('bold', '0.165602'), ('virtual', '0.157654'), ('warmly', '0.154479'), ('boldface', '0.145986'), ('quietly', '0.144948')]
+
+
+
+iranian
+[('disorganize', '0.171176'), ('coldness', '0.154988'), ('unsympathetic', '0.149188'), ('harsh', '0.147656'), ('ardent', '0.146295'), ('sympathetic', '0.144112')]
+
+
+
+india
+[('virtual', '0.137485')]
+
+
+
+french
+[('retire', '0.160871')]
+
+
+
+france
+[]
+
+
+
+indian
+[('taxonomic', '0.164794'), ('natural', '0.146710'), ('temperamental', '0.141490'), ('virtual', '0.139813'), ('retreat', '0.136793'), ('cooperative', '0.135513')]
+
+
+
+china
+[('covetous', '0.215591'), ('intellectual', '0.186934'), ('strong', '0.182123'), ('bold', '0.150578'), ('harsh', '0.140414'), ('cooperative', '0.139307'), ('relax', '0.137239')]
+
+
+
+brazilian
+[('temperamental', '0.332760'), ('imaginative', '0.286279'), ('extrovert', '0.208341'), ('disorganize', '0.194456'), ('uncreative', '0.189485'), ('virtual', '0.185339'), ('energetic', '0.172031'), ('quick', '0.161237'), ('tranquillity', '0.156003')]
+
+
+
+italy
+[('imaginative', '0.256362')]
+
+
+
+australian
+[('moody', '0.210849'), ('retire', '0.161775')]
+
+
+
+america
+[('taxonomic', '0.168955'), ('charitable', '0.139509'), ('hardheaded', '0.127178'), ('boldface', '0.124599')]
+
+
+
+italian
+[('imaginative', '0.335119'), ('temperamental', '0.218454'), ('disorganize', '0.181981'), ('ardent', '0.144359'), ('extrovert', '0.138275')]

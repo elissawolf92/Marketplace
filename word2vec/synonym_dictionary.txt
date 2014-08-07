@@ -1,0 +1,55 @@
+{'imaginative': ['imaginative'], 'envious': ['covetous'], 'organized': ['organized', 'organize', 'mastermind', 'unionize', 'form'], 'deep': ['cryptic', 'bass', 'deeply', 'deep', 'trench', 'abstruse', 'thick'], 
+
+'philosophical': ['philosophical', 'philosophic'], 'cooperative': ['accommodative', 'concerted', 'cooperative'], 
+
+'cold': ['cold', 'coldness'], 'talkative': ['chatty', 'bigmouthed', 'expansive'], 
+
+'withdrawn': ['indrawn', 'seclude', 'recall', 'retire', 'remove', 'disengage', 'retreat', 'withdraw', 'adjourn', 'swallow', 'recluse', 'bow_out'], 
+
+'energetic': ['energetic'], 'sympathetic': ['sympathetic', 'charitable', 'harmonic'], 
+
+'extroverted': ['extroverted', 'extrospective', 'extrovert'], 
+
+'harsh': ['harsh', 'coarse'], 'efficient': ['efficient', 'effective'],
+
+ 'creative': ['creative'], 'complex': ['complex', 'building_complex'], 
+ 
+ 'unintellectual': [], '
+ 
+ inefficient': ['ineffective', 'inefficient'], 
+
+ 'rude': ['crude', 'uncivil', 'natural', 'ill-bred', 'ill-mannered'], 
+
+ 'relaxed': ['loosen', 'relaxed', 'slack', 'relax'], 
+
+ 'bashful': ['bashful'], 
+
+ 'unsympathetic': ['disagreeable', 'unsympathetic', 'closed', 'unkindly'], 
+
+ 'sloppy': ['overemotional', 'haphazard', 'baggy', 'boggy', 'sloppy'], 
+
+ 'bold': ['bluff', 'bold', 'boldface'], 
+
+ 'warm': ['affectionate', 'warmly', 'ardent', 'warm', 'quick', 'strong'], 
+
+ 'intellectual': ['cerebral', 'intellectual'], 
+
+ 'systematic': ['taxonomic', 'systematic'], 
+
+ 'jealous': ['jealous', 'covetous'], 
+
+ 'fretful': ['antsy', 'fretful'], 'uncreative': ['uncreative'], 
+
+ 'moody': ['dark', 'moody'], 'kind': ['kind'], 
+
+ 'touchy': ['huffy', 'delicate'], 
+
+ 'shy': ['shy', 'diffident'], 
+
+ 'quiet': ['quietly', 'quieten', 'hushed', 'placid', 'quiet', 'repose', 'calm', 'tranquillity', 'silence', 'lull'], 
+
+ 'practical': ['practical', 'hardheaded', 'virtual'], 
+
+ 'unenvious': [], 'careless': ['careless'], 
+
+ 'disorganized': ['disorganize', 'disorganized'], 'temperamental': ['erratic', 'temperamental', 'moody']}
